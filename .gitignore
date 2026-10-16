@@ -1,0 +1,15 @@
+# Archive packages are intentionally excluded from this repository.
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.cab
+
+# Operating-system and office temporary files.
+.DS_Store
+Thumbs.db
+~$*
